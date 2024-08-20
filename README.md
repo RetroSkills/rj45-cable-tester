@@ -45,7 +45,7 @@ Upload the provided Arduino code to both the sender and receiver Arduino units.
 Connect the RJ45 cable to the sender and receiver units.
 #### Notes
 Feel free to change the on time of the LEDs according to your own needs.
-You also may only connect the sender unit to power, and power will be transmitted through the cable to the receiving unit, that is why the sender always sends a HIGH signal at first power.
+You also can only connect the sender unit to power, and power will be transmitted through the cable to the receiving unit, that is why the sender always sends a HIGH signal at first power.
 Feel free to change the connections to the standard used in your own country.
 Suggestions are welcome!
 
