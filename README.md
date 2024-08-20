@@ -14,10 +14,10 @@ Connection wires, a lot of em.
 The project includes two images showing the circuit diagrams for the sender and receiver units:
 
 ### Receiver Unit
-![Receiver Circuit Diagram](images/receiver_diagram.svg)
+![Receiver Circuit Diagram](images/receiver_diagram.SVG)
 
 ### Sender Unit
-![Sender Circuit Diagram](images/sender_diagram.svg)
+![Sender Circuit Diagram](images/sender_diagram.SVG)
 RJ45 Pinout
 The RJ45 port is wired according to the T568B standard. The connections to the Arduino are made as follows:
 
